@@ -1,0 +1,15 @@
+{
+  "name": "jest-bug-repro",
+  "version": "1.0.0",
+  "description": "Repro for a bug where calling user-data-dir arg causes browser to crash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alisha Ukani",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.0.1"
+  }
+}
